@@ -17,9 +17,12 @@
 ![](https://images.pexels.com/photos/1033373/pexels-photo-1033373.jpeg?auto=compress&cs=tinysrgb&h=350)
 
 RZECZY DO ZROBIENIA:
--[ ] do zrobienia
--[ ] do zrobienia 2
--[ ] dodać obrazki
+
+- [ ] do zrobienia
+
+- [ ] do zrobienia 2
+
+- [ ] dodać obrazki
 
 ```html
 <header class="header">naglowek</header>
@@ -30,6 +33,10 @@ RZECZY DO ZROBIENIA:
      width: 100%
      }
 ```
+*italic*
+
+**strong**
+~~line through~~
 
 
 
